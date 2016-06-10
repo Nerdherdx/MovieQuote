@@ -1,0 +1,13 @@
+body {
+	background-color:deepskyblue;
+}
+.box {
+	position: relative;
+padding: 10% 50px;
+margin-left: auto;
+margin-right: auto;
+width:30%;
+height:30%;
+color:black;
+font-family: monospace;
+}
